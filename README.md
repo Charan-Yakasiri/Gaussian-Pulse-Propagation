@@ -60,11 +60,12 @@ Place and connect the following components:
 
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
+<img width="995" height="995" alt="image" src="https://github.com/user-attachments/assets/a72e0fed-79ac-431f-bbc9-f84dd086d3ab" />
 
 
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
-
-
+## Result
+Thus the comparison of the results predicted by the linear system model of an optical fiber with the results of simulation was verified.
